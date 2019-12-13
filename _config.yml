@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: feynxd@gmail.com
 description: "Down to earth, looking up at the stars."
 keyword: "BY, BY Blog, 北极以北, FeynH, SLAM, Motion, C++"
-url: "http://feynH.github.io"          # your host, for absolute URL
+url: "http://feynh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/FeynH/FeynH.github.io.git" # you code repository
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: feynH.github.io    #仓库名称
+  repo: feynh.github.io    #仓库名称
   owner: FeynH    #github用户名
   admin: FeynH
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
