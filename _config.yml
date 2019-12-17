@@ -1,10 +1,10 @@
 # Site settings
-title: 北极以北
-SEOTitle: 北极以北 | BY Blog
+title: Xudong's Blog
+SEOTitle: Xudong's Blog | XD Blog
 header-img: img/post-bg-hacker.jpg
 email: feynxd@gmail.com
 description: "Down to earth, looking up at the stars."
-keyword: "BY, BY Blog, 北极以北, FeynH, SLAM, Motion, C++"
+keyword: "XD, XD Blog, Xudong's Blog, FeynH, SLAM, Motion, C++"
 url: "https://feynh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/FeynH/FeynH.github.io.git" # you code repository
